@@ -1,6 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
 **BradleyHedman/BradleyHedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Data Analyst 📊💻📈
+
+### Education 👨🏾‍🎓
+Mathematics, BSc (Hons)
+
+### Work Experience work
+Data Analyst - Braintree District Council
+- success 1
+- success 2
+
+### Projects
+Baltic Apprenticeships Projects
+- Project 1
