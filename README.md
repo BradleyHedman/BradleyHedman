@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Data Analyst 📊💻📈
 
-### Education 👨🏾‍🎓
+### Education 
 Mathematics, BSc (Hons)
 
 ### Work Experience work
