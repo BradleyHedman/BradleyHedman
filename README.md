@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Data Analyst 📊💻📈
+[My LinkedIn Profile](https://www.linkedin.com/in/bradley-hedman-206437163/)
+<!--#[Text that appears](link to website or path to image)-->
+### Technical Skills: Python, SQL, MATLAB, Excel, Power BI
 
-### Education 
-Mathematics, BSc (Hons)
+## Education 
+BSc (Hons) Mathematics | University of Essex
 
-### Work Experience work
-Data Analyst - Braintree District Council
+## Work Experience
+**Data Analyst - Braintree District Council (_June 2023 - Present_)**
 - success 1
 - success 2
 
